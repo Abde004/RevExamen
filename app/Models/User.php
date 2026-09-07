@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Models;
-//wow
+//wowp
 //noo
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Database\Factories\UserFactory;
