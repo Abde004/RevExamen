@@ -2,7 +2,7 @@
 
 namespace App\Models;
 //wow
-//noo
+//noopp
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Database\Factories\UserFactory;
 use Illuminate\Database\Eloquent\Attributes\Fillable;
